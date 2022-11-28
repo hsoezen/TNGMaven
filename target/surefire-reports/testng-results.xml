@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="10836" started-at="2022-11-28T14:06:10 MEZ" finished-at="2022-11-28T14:06:21 MEZ">
+  <suite name="Suite" duration-ms="12163" started-at="2022-11-28T14:17:44 MEZ" finished-at="2022-11-28T14:17:56 MEZ">
     <groups>
     </groups>
-    <test name="Test" duration-ms="10836" started-at="2022-11-28T14:06:10 MEZ" finished-at="2022-11-28T14:06:21 MEZ">
+    <test name="Test" duration-ms="12163" started-at="2022-11-28T14:17:44 MEZ" finished-at="2022-11-28T14:17:56 MEZ">
       <class name="SeleniumTest.Test2">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:SeleniumTest.Test2@5ed828d]" name="setUp" is-config="true" duration-ms="7093" started-at="2022-11-28T14:06:10 MEZ" finished-at="2022-11-28T14:06:17 MEZ">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:SeleniumTest.Test2@7f13d6e]" name="setUp" is-config="true" duration-ms="8388" started-at="2022-11-28T14:17:44 MEZ" finished-at="2022-11-28T14:17:52 MEZ">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testRadioButton()[pri:0, instance:SeleniumTest.Test2@5ed828d]" name="testRadioButton" duration-ms="62" started-at="2022-11-28T14:06:17 MEZ" finished-at="2022-11-28T14:06:17 MEZ">
+        <test-method status="PASS" signature="testRadioButton()[pri:0, instance:SeleniumTest.Test2@7f13d6e]" name="testRadioButton" duration-ms="53" started-at="2022-11-28T14:17:52 MEZ" finished-at="2022-11-28T14:17:52 MEZ">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRadioButton -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumTest.Test2@5ed828d]" name="tearDown" is-config="true" duration-ms="3654" started-at="2022-11-28T14:06:17 MEZ" finished-at="2022-11-28T14:06:21 MEZ">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumTest.Test2@7f13d6e]" name="tearDown" is-config="true" duration-ms="3703" started-at="2022-11-28T14:17:52 MEZ" finished-at="2022-11-28T14:17:56 MEZ">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
