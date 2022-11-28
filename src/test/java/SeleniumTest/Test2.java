@@ -18,11 +18,12 @@ public class Test2 {
 	private String baseUrl;
 	
 	@BeforeClass
-	public void setUp() {
+	public void setUp() throws InterruptedException {
 		WebDriverManager.chromedriver().setup();
 		baseUrl = "https://courses.letskodeit.com/practice";
-		
+		Thread.sleep(2000);
 		driver= new ChromeDriver();
+		Thread.sleep(2000);
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		driver.manage().window().maximize();
 		driver.get(baseUrl);
