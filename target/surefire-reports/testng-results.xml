@@ -2,27 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="11957" started-at="2022-11-28T13:25:37 MEZ" finished-at="2022-11-28T13:25:49 MEZ">
+  <suite name="Suite" duration-ms="10836" started-at="2022-11-28T14:06:10 MEZ" finished-at="2022-11-28T14:06:21 MEZ">
     <groups>
-      <group name="smoke">
-        <method signature="ScrolllenJava.scrollTest()[pri:0, instance:SeleniumTest.ScrolllenJava@5ed828d]" name="scrollTest" class="SeleniumTest.ScrolllenJava"/>
-      </group> <!-- smoke -->
     </groups>
-    <test name="Test" duration-ms="11957" started-at="2022-11-28T13:25:37 MEZ" finished-at="2022-11-28T13:25:49 MEZ">
-      <class name="SeleniumTest.ScrolllenJava">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:SeleniumTest.ScrolllenJava@5ed828d]" name="setUp" is-config="true" duration-ms="5346" started-at="2022-11-28T13:25:37 MEZ" finished-at="2022-11-28T13:25:42 MEZ">
+    <test name="Test" duration-ms="10836" started-at="2022-11-28T14:06:10 MEZ" finished-at="2022-11-28T14:06:21 MEZ">
+      <class name="SeleniumTest.Test2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:SeleniumTest.Test2@5ed828d]" name="setUp" is-config="true" duration-ms="7093" started-at="2022-11-28T14:06:10 MEZ" finished-at="2022-11-28T14:06:17 MEZ">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="scrollTest()[pri:0, instance:SeleniumTest.ScrolllenJava@5ed828d]" name="scrollTest" duration-ms="5539" started-at="2022-11-28T13:25:42 MEZ" finished-at="2022-11-28T13:25:48 MEZ">
+        <test-method status="PASS" signature="testRadioButton()[pri:0, instance:SeleniumTest.Test2@5ed828d]" name="testRadioButton" duration-ms="62" started-at="2022-11-28T14:06:17 MEZ" finished-at="2022-11-28T14:06:17 MEZ">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- scrollTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumTest.ScrolllenJava@5ed828d]" name="tearDown" is-config="true" duration-ms="1054" started-at="2022-11-28T13:25:48 MEZ" finished-at="2022-11-28T13:25:49 MEZ">
+        </test-method> <!-- testRadioButton -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumTest.Test2@5ed828d]" name="tearDown" is-config="true" duration-ms="3654" started-at="2022-11-28T14:06:17 MEZ" finished-at="2022-11-28T14:06:21 MEZ">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- SeleniumTest.ScrolllenJava -->
+      </class> <!-- SeleniumTest.Test2 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

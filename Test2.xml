@@ -3,7 +3,7 @@
 <suite name="Suite">
 	<test name="Test" >
 		<classes>
-			<class name="SeleniumTest.ScrolllenJava"></class>
+			<class name="SeleniumTest.Test2"></class>
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

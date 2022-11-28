@@ -20,7 +20,7 @@ public class Test1 {
 		 
 		driver.get("https://www.fincon.eu");
 		
-		driver.close();
+		driver.quit();
 	}
 
 }
